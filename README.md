@@ -1,6 +1,6 @@
 # dinhhieu110
 <h1 align="center">Hi there👋, I'm Willson </h1>
-<h3 align="center">A hard-work and curious software engineer from Viet Nam</h3>
+<h3 align="center">A hard working and curious software engineer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhhieu110&label=Profile%20views&color=0e75b6&style=flat" alt="dinhhieu110" /> </p>
