@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 My long-term goal is being a good **MERN Stack** developer.
+- 🌱 My long-term goal is being a **Front-end expert** .
 
 - 💬 Ask me about **Tech**
 
