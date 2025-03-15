@@ -134,6 +134,6 @@ Passionate and Curious Software Developer
   </tr>
 </table>
 
-<div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fact:+;Just be a good one.+;" alt="Fact" /> 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Just+be+a+good+one!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Slogan">
+</p>
