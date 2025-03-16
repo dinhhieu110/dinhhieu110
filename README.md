@@ -135,5 +135,5 @@ Passionate and Curious Software Developer
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=+🐶Hold+on...+Just+be+a+good+one!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Slogan">
+  <img src="https://readme-typing-svg.demolab.com/?lines=+🐶Hold+on...+Just+be+a+good+one!;The+way+you+do;+one+thing+determines;the+way+you+do+everything!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Slogan">
 </p>
