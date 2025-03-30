@@ -119,21 +119,6 @@ Passionate and Curious Software Developer
 </table>
 </div>
 
-### GitHub Stats :
-
-<table align="center">
-  <tr>
-  <td>
-  <a href="https://github.com/dinhhieu110/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dinhhieu110&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wilson Tran github stats" /></a>
-  </td>
-  <td>
-  <a href="https://github.com/dinhhieu110/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhhieu110&layout=compact&theme=buefy&hide_border=true" /></a>
-  </td>
-  </tr>
-  <tr>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=+🐶Hold+on...+Just+be+a+good+one!;The+way+you+do;+one+thing+determines;the+way+you+do+everything!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Slogan">
 </p>
