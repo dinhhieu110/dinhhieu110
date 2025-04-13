@@ -66,26 +66,36 @@ Passionate and Curious Software Developer
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
       <br>React.js
     </td>
+     <td align="center" width="88">
+        <img src="./images/vue.svg" alt="React" width="44" height="44"/>
+      <br>VueJS
+    </td>
     <td align="center" width="88">
         <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
       <br>Next.js
     </td>
+  </tr>
+  <tr>
+  <tr>
+   <td align="center" width="88">
+       <img src="./images/c.png" alt="CSharp" width="44" height="44"/>
+      <br>C#
+      </td>
+       <td align="center" width="88">
+       <img src="./images/dotnet-svgrepo-com.svg" alt="DOTNET" width="44" height="44"/>
+      <br>ASP.Net
+      </td>
+       <td align="center" width="88">
+       <img src="./images/java-logo-svgrepo-com.svg" alt="Java" width="44" height="44"/>
+      <br>Java
+      </td>
     <td align="center" width="88">
-      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
-      <br>Node.js
-    </td>
-        <td align="center" width="88">
        <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
       <br>SQL
       </td>
-  </tr>
     <td align="center" width="88">
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
       <br>Sass
-    </td>
-    <td align="center" width="88"> 
-        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
-      <br>BEM
     </td>
     <td align="center"  width="88">
         <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
@@ -94,28 +104,39 @@ Passionate and Curious Software Developer
     <td align="center" width="88">
         <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
       <br>Redux
-    </td>
-      <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
-      <br>Postman
-    </td>
       </td>
       <td align="center" width="88">
         <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
       <br>MongoDB
      </td>
-     <td align="center" width="88">
-        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
-      <br>Git
+     </tr>
+     <tr>
+        <td align="center" width="88">
+        <img src="./images/express-js.png" alt="Express" width="44" height="44"/>
+      <br>ExpressJS
     </td>
-  <td align="center" width="88">
-        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
-      <br>VSCode
-     </td>
   <td align="center" width="88">
         <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
       <br>Figma
      </td>
+       <td align="center" width="88">
+        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
+      <br>VSCode
+     </td>
+         </td>
+      <td align="center" width="88">
+        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
+      <br>Postman
+    </td>
+      <td align="center" width="88">
+      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
+      <br>Node.js
+    </td>
+         <td align="center" width="88">
+        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
+      <br>Git
+    </td>
+     </tr>
 </table>
 </div>
 
