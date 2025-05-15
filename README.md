@@ -70,28 +70,28 @@ Passionate and Curious Software Developer
         <img src="./images/vue.svg" alt="React" width="44" height="44"/>
       <br>VueJS
     </td>
-    <td align="center" width="88">
-        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
-      <br>Next.js
+        <td align="center" width="88">
+        <img src="./images/angular.png" alt="Angular" width="44" height="44"/>
+      <br>Angular
     </td>
   </tr>
   <tr>
   <tr>
-   <td align="center" width="88">
-       <img src="./images/c.png" alt="CSharp" width="44" height="44"/>
-      <br>C#
-      </td>
        <td align="center" width="88">
        <img src="./images/dotnet-svgrepo-com.svg" alt="DOTNET" width="44" height="44"/>
       <br>ASP.Net
       </td>
+    <td align="center" width="88">
+        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
+      <br>Next.js
+    </td>
        <td align="center" width="88">
        <img src="./images/java-logo-svgrepo-com.svg" alt="Java" width="44" height="44"/>
       <br>Java
       </td>
-    <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
-      <br>SQL
+       <td align="center" width="88">
+       <img src="./images/c.png" alt="CSharp" width="44" height="44"/>
+      <br>C#
       </td>
     <td align="center" width="88">
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
@@ -119,6 +119,10 @@ Passionate and Curious Software Developer
         <img src="./images/18-figma.svg" alt="Figma" width="44" height="44"/>
       <br>Figma
      </td>
+         <td align="center" width="88">
+       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
+      <br>SQL
+      </td>
        <td align="center" width="88">
         <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
       <br>VSCode
